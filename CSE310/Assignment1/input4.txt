@@ -1,0 +1,43 @@
+A
+Dell Laptop
+4444
+989.99
+A
+Apple iPhone
+5555
+650.0
+A
+Whirlpool Dryer
+2222
+497.70
+A
+LG 55 LED TV
+3333
+449.99
+A
+Dyson Vacuum
+6666
+249.99
+D
+C
+2222
+Whirlpool Washer
+D
+C
+6666
+Whirlpool Vacuum
+D
+P
+5555
+780.0
+D
+R
+2222
+D
+R
+5555
+D
+R
+6666
+D
+Q

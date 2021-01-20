@@ -1,0 +1,83 @@
+Choice		Action
+------		------
+A		Add Product
+C		Change A Product Title
+D		Display All Products
+F		Find A Product
+P		Change A product Price
+R		Remove Product
+Q		Quit
+?		Display Help
+
+
+What action would you like to perform?
+Please enter the product information:
+Enter the product name:
+Enter product id:
+Enter the product price:
+The product "Dell Laptop" is added
+
+What action would you like to perform?
+Please enter the product information:
+Enter the product name:
+Enter product id:
+Enter the product price:
+The product "Whirlpool Washer" is added
+
+What action would you like to perform?
+Please enter the product information:
+Enter the product name:
+Enter product id:
+Enter the product price:
+The product "Whirlpool Dryer" is added
+
+What action would you like to perform?
+Please enter the product information:
+Enter the product name:
+Enter product id:
+Enter the product price:
+The product "LG 55 LED TV" is added
+
+What action would you like to perform?
+Please enter the product information:
+Enter the product name:
+Enter product id:
+Enter the product price:
+The product "Apple iPhone" is added
+
+What action would you like to perform?
+5555, Apple iPhone, $750.00
+4444, Dell Laptop, $989.99
+3333, LG 55 LED TV, $449.99
+2222, Whirlpool Dryer, $497.70
+1111, Whirlpool Washer, $659.93
+
+What action would you like to perform?
+Please enter the product ID to remove:
+Product with ID #: 1111 was removed
+
+What action would you like to perform?
+5555, Apple iPhone, $750.00
+4444, Dell Laptop, $989.99
+3333, LG 55 LED TV, $449.99
+2222, Whirlpool Dryer, $497.70
+
+What action would you like to perform?
+Please enter the product ID to remove:
+Product with ID #: 4444 was removed
+
+What action would you like to perform?
+5555, Apple iPhone, $750.00
+3333, LG 55 LED TV, $449.99
+2222, Whirlpool Dryer, $497.70
+
+What action would you like to perform?
+Please enter the product ID to remove:
+Product with ID #: 5555 was removed
+
+What action would you like to perform?
+3333, LG 55 LED TV, $449.99
+2222, Whirlpool Dryer, $497.70
+
+What action would you like to perform?
+The number of deleted products is: 2

@@ -1,0 +1,18 @@
+
+index: 0, linked list size: 2
+P2   Chef Anton's Cajun Seasoning       Supplier2      Category2      48 - 6 oz jars           22   
+P1   Chais                              Supplier1      Category1      10 boxes x 20 bags       18   
+
+index: 1, linked list size: 1
+P3   Chang                              Supplier5      Category3      24 - 12 oz bottles       19   
+
+index: 2, linked list size: 0
+The list is empty
+
+index: 3, linked list size: 0
+The list is empty
+
+index: 4, linked list size: 0
+The list is empty
+
+Invalid command
