@@ -1,0 +1,69 @@
+Choice		Action
+------		------
+A		Add Product
+C		Change A Product Title
+D		Display All Products
+F		Find A Product
+P		Change A product Price
+R		Remove Product
+Q		Quit
+?		Display Help
+
+
+What action would you like to perform?
+Please enter the product information:
+Enter the product name:
+Enter product id:
+Enter the product price:
+The product "Dell Laptop" is added
+
+What action would you like to perform?
+Please enter the product information:
+Enter the product name:
+Enter product id:
+Enter the product price:
+The product "Whirlpool Dryer" is added
+
+What action would you like to perform?
+Please enter the product information:
+Enter the product name:
+Enter product id:
+Enter the product price:
+Duplicated product. Not added.
+The product "Whirlpool Dryer" is not added
+
+What action would you like to perform?
+Please enter the product information:
+Enter the product name:
+Enter product id:
+Enter the product price:
+The product "LG 55 LED TV" is added
+
+What action would you like to perform?
+4444, Dell Laptop, $989.99
+3333, LG 55 LED TV, $449.99
+2222, Whirlpool Dryer, $497.70
+
+What action would you like to perform?
+Please enter the product ID which you want to change the name:
+Please enter the new name: Product with ID #: 2222 name was changed
+
+What action would you like to perform?
+4444, Dell Laptop, $989.99
+3333, LG 55 LED TV, $449.99
+2222, Wirlpool Washer, $497.70
+
+What action would you like to perform?
+
+Please enter the product id you want to change the price:
+
+Please enter the new product price:
+Product with ID #: 3333 price was updated
+
+What action would you like to perform?
+4444, Dell Laptop, $989.99
+3333, LG 55 LED TV, $550.00
+2222, Wirlpool Washer, $497.70
+
+What action would you like to perform?
+The number of deleted products is: 3
